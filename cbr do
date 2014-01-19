@@ -1,0 +1,64 @@
+Sub Макрос1()
+'
+' Макрос1 Макрос
+'
+
+'
+Dim lLastRow As Long
+Dim lLastCol As Long
+Dim adr As String
+Dim str As String
+
+For i = 1 To 13 'year
+    For j = 1 To 12 'month
+        ii = 13 - i + 1
+        jj = 12 - j + 1
+        If ii < 10 Then
+            yy = "0" & CStr(ii)
+        Else
+            yy = CStr(ii)
+        End If
+        
+        If jj < 10 Then
+            mm = "0" + CStr(jj)
+        Else
+            mm = CStr(jj)
+        End If
+        
+        adr = mm + yy
+        str = "URL;http://www.cbr.ru/statistics/print.aspx?file=bank_system/int_div_01" + adr + ".htm&pid=pdko_sub&sid=ITM_64574"
+        lLastRow = Cells(Rows.Count, 2).End(xlUp).Row
+        r = lLastRow + 1
+        dt = "01." + mm + "." + CStr(ii + 2000)
+
+        Cells(r, 1).Select
+        With ActiveSheet.QueryTables.Add(Connection:= _
+            str _
+            , Destination:=Range("$A$" & CStr(r)))
+            .Name = "int_div_" + adr + ".htm&pid=pdko_sub&sid=ITM_64574"
+            .FieldNames = True
+            .RowNumbers = False
+            .FillAdjacentFormulas = False
+            .PreserveFormatting = True
+            .RefreshOnFileOpen = False
+            .BackgroundQuery = True
+            .RefreshStyle = xlInsertDeleteCells
+            .SavePassword = False
+            .SaveData = True
+            .AdjustColumnWidth = True
+            .RefreshPeriod = 0
+            .WebSelectionType = xlSpecifiedTables
+            .WebFormatting = xlWebFormattingNone
+            .WebTables = "2"
+            .WebPreFormattedTextToColumns = True
+            .WebConsecutiveDelimitersAsOne = True
+            .WebSingleBlockTextImport = False
+            .WebDisableDateRecognition = False
+            .WebDisableRedirections = False
+            .Refresh BackgroundQuery:=False
+        End With
+        Cells(r, 8).Value = dt
+        Cells(r, 9).Value = str
+    Next j
+Next i
+End Sub
