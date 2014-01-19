@@ -1,333 +1,372 @@
-%% This BibTeX bibliography file was created using BibDesk.
-%% http://bibdesk.sourceforge.net/
+% This file was created with JabRef 2.9.2.
+% Encoding: Cp1251
 
+@ARTICLE{Acemoglu2003,
+  author = {Acemoglu, D., P. Aghion, and F. Zilibotti},
+  title = {Distance to Frontier, Selection, and Economic Growth},
+  journal = {National Bureau of Economic Growth},
+  year = {2003},
+  volume = {9066},
+  owner = {Maxim},
+  timestamp = {2014.01.20}
+}
 
-%% Created for ћаксим Ћеонов at 2014-01-20 01:45:17 +0400 
+@ARTICLE{Acemoglu:1997fp,
+  author = {Acemoglu, D. and F. Zilibotti},
+  title = {Was Prometheus Unbound by Chance? Risk, Diversification, and Growth},
+  journal = {Journal of Political Economy},
+  year = {1997},
+  volume = {105},
+  pages = {709-775},
+  date-added = {2014-01-17 21:15:30 +0000},
+  date-modified = {2014-01-17 21:18:58 +0000}
+}
 
+@ARTICLE{Blackburn1998,
+  author = {Blackburn, K. and V.T.Y. Hung},
+  title = {A Theory of Growth, Financial Development, and Trade},
+  journal = {Economica},
+  year = {1998},
+  volume = {65},
+  pages = {107-124},
+  owner = {Maxim},
+  timestamp = {2014.01.19}
+}
 
-%% Saved with string encoding Cyrillic (Windows) 
+@ARTICLE{Boyd1986,
+  author = {Boyd, J. H. and E. C. Prescott},
+  title = {Financial Intermediary-Coalitions},
+  journal = {Journal of Economics Theory},
+  year = {1986},
+  volume = {38},
+  pages = {211-232},
+  owner = {Maxim},
+  timestamp = {2014.01.19}
+}
 
+@ARTICLE{Boyd1992,
+  author = {Boyd, J.H., and B.D. Smith},
+  title = {Intermediation and the Equilibrium Allocation of Investment Capital:
+	Implications for Economic Development},
+  journal = {Journal of Monetary Economics},
+  year = {1992},
+  volume = {30},
+  pages = {409-432},
+  note = {18.Boyd, J.H., and B.D. Smith (1992), ``Intermediation and the Equilibrium
+	Allocation of Investment Capital: Implications for Economic Development'',
+	Journal of Monetary Economics, 30: 409-432.},
+  owner = {Maxim},
+  timestamp = {2014.01.20}
+}
 
+@ARTICLE{Carossso1979,
+  author = {Carossso, Vincent},
+  title = {Investment banking in America},
+  journal = {MA: Harvard University Press},
+  year = {1979},
+  note = {Carossso, Vincent (1979), ``Investment banking in America'', MA:
+	Harvard University Press.},
+  owner = {Maxim},
+  timestamp = {2014.01.20}
+}
 
-@article{test:2013jk,
-	Author = {тест},
-	Date-Added = {2014-01-19 21:44:29 +0000},
-	Date-Modified = {2014-01-19 21:44:45 +0000},
-	Journal = {така€ же},
-	Title = {проверка €зыка},
-	Year = {2013}}
+@ARTICLE{De-Gregorio:1996bs,
+  author = {De Gregorio, J.},
+  title = {Borrowing Constraints, Human Capital Accumulation, and Growth},
+  journal = {Journal of Monetary Economics},
+  year = {1996},
+  volume = {37},
+  pages = {49-71},
+  date-added = {2014-01-17 21:20:23 +0000},
+  date-modified = {2014-01-17 21:21:12 +0000}
+}
 
-@article{Diamond:1984fj,
-	Author = {Diamond, D. W.},
-	Date-Added = {2014-01-17 21:39:08 +0000},
-	Date-Modified = {2014-01-17 21:39:36 +0000},
-	Journal = {Review of Economic Studies},
-	Pages = {393-414},
-	Title = {Financial Intermediation and Delegated Monitoring},
-	Volume = {51},
-	Year = {1984}}
+@ARTICLE{Diamond:1984fj,
+  author = {Diamond, D. W.},
+  title = {Financial Intermediation and Delegated Monitoring},
+  journal = {Review of Economic Studies},
+  year = {1984},
+  volume = {51},
+  pages = {393-414},
+  date-added = {2014-01-17 21:39:08 +0000},
+  date-modified = {2014-01-17 21:39:36 +0000}
+}
 
-@article{Stein:1988zp,
-	Author = {Stein, J. C.},
-	Date-Added = {2014-01-17 21:38:22 +0000},
-	Date-Modified = {2014-01-17 21:38:57 +0000},
-	Journal = {Journal of Political Economy},
-	Pages = {61-80},
-	Title = {Takeover Threats and Managerial Myopia},
-	Volume = {96},
-	Year = {1988}}
+@ARTICLE{Diamond:1983eu,
+  author = {Diamond, D. W. and P. H. Dybvig},
+  title = {Bank Runs, Deposit Insurance, and Liquidity},
+  journal = {Journal of Political Economy},
+  year = {1983},
+  volume = {91},
+  pages = {401-419},
+  date-added = {2014-01-17 21:19:09 +0000},
+  date-modified = {2014-01-17 21:19:59 +0000}
+}
 
-@article{Scharfstein:1988ez,
-	Author = {Scharfstein, D.},
-	Date-Added = {2014-01-17 21:37:42 +0000},
-	Date-Modified = {2014-01-17 21:38:18 +0000},
-	Journal = {Review of Economic Studies},
-	Pages = {185-199},
-	Title = {The Disciplinary Role of Takeovers},
-	Volume = {55},
-	Year = {1988}}
+@ARTICLE{Diamond:1982wb,
+  author = {Diamond, D. W. and R. E. Verrecchia},
+  title = {Optimal Managerial Contracts and equilibrium Security Prices},
+  journal = {Journal of Finance},
+  year = {1982},
+  volume = {37},
+  pages = {275-287},
+  date-added = {2014-01-17 21:36:16 +0000},
+  date-modified = {2014-01-17 21:36:43 +0000}
+}
 
-@article{Jensen:1990zw,
-	Author = {Jensen, M. and K. Murphy},
-	Date-Added = {2014-01-17 21:36:49 +0000},
-	Date-Modified = {2014-01-17 21:37:40 +0000},
-	Journal = {Journal of Political Economy},
-	Pages = {225-263},
-	Title = {Performance Pay and Top Management Incentives},
-	Volume = {98},
-	Year = {1990}}
+@ARTICLE{Galor:1993rw,
+  author = {Galor, O. and J. Zeira},
+  title = {Income Distribution and Macroeconomics},
+  journal = {Review of Economic Studies},
+  year = {1993},
+  volume = {60},
+  number = {35-52},
+  date-added = {2014-01-17 21:21:24 +0000},
+  date-modified = {2014-01-17 21:22:17 +0000}
+}
 
-@article{Diamond:1982wb,
-	Author = {Diamond, D. W. and R. E. Verrecchia},
-	Date-Added = {2014-01-17 21:36:16 +0000},
-	Date-Modified = {2014-01-17 21:36:43 +0000},
-	Journal = {Journal of Finance},
-	Pages = {275-287},
-	Title = {Optimal Managerial Contracts and equilibrium Security Prices},
-	Volume = {37},
-	Year = {1982}}
+@ARTICLE{Greenwood:145df,
+  author = {Greenwood, J. and B. Smith},
+  title = {Financial Markets in Development, and the Development of Financial
+	Markets},
+  journal = {Journal of Economic Dynamics and Control},
+  year = {145-181},
+  volume = {21},
+  pages = {145-181},
+  date-added = {2014-01-17 21:34:17 +0000},
+  date-modified = {2014-01-17 21:34:59 +0000}
+}
 
-@article{Morck:2005rb,
-	Author = {Morck, R., D. Wolfenzon, and B. Yeung},
-	Date-Added = {2014-01-17 21:35:39 +0000},
-	Date-Modified = {2014-01-17 21:36:11 +0000},
-	Journal = {Journal of Economic Literature},
-	Number = {3},
-	Pages = {655-720},
-	Title = {Corporate Governance, Economic Entrenchment and Growth},
-	Volume = {43},
-	Year = {2005}}
+@ARTICLE{Grossman1980,
+  author = {Grossman, S. J. and J. Stiglitz},
+  title = {On the Impossibility of Informationally Efficient Markets},
+  journal = {American Economic Review},
+  year = {1980},
+  volume = {70},
+  pages = {393-408},
+  owner = {Maxim},
+  timestamp = {2014.01.20}
+}
 
-@article{Jensen:1976sy,
-	Author = {Jensen, M. and W. R. Meckling},
-	Date-Added = {2014-01-17 21:35:02 +0000},
-	Date-Modified = {2014-01-17 21:35:36 +0000},
-	Journal = {Journal of Financial Economics},
-	Pages = {305-360},
-	Title = {Theory of the Firm, Managerial Behavior, Agency Costs and Ownership Structure},
-	Volume = {3},
-	Year = {1976}}
+@ARTICLE{Holmstrom1993,
+  author = {Holmstrom, B. and J. Tirole},
+  title = {Market Liquidity and Performance Monitoring},
+  journal = {Journal of Political Economy},
+  year = {1993},
+  volume = {678-709},
+  pages = {678-709},
+  owner = {Maxim},
+  timestamp = {2014.01.20}
+}
 
-@article{Greenwood:145df,
-	Author = {Greenwood, J. and B. Smith},
-	Date-Added = {2014-01-17 21:34:17 +0000},
-	Date-Modified = {2014-01-17 21:34:59 +0000},
-	Journal = {Journal of Economic Dynamics and Control},
-	Pages = {145-181},
-	Title = {Financial Markets in Development, and the Development of Financial Markets},
-	Volume = {21},
-	Year = {145-181}}
+@ARTICLE{Jensen:1976sy,
+  author = {Jensen, M. and W. R. Meckling},
+  title = {Theory of the Firm, Managerial Behavior, Agency Costs and Ownership
+	Structure},
+  journal = {Journal of Financial Economics},
+  year = {1976},
+  volume = {3},
+  pages = {305-360},
+  date-added = {2014-01-17 21:35:02 +0000},
+  date-modified = {2014-01-17 21:35:36 +0000}
+}
 
-@article{Williamson:1994qd,
-	Author = {Williamson, S. D. and R. Wright},
-	Date-Added = {2014-01-17 21:33:02 +0000},
-	Date-Modified = {2014-01-17 21:34:15 +0000},
-	Journal = {American Economic Review},
-	Pages = {104-123},
-	Title = {Barter and Monetary Exchange under Private Information},
-	Volume = {84},
-	Year = {1994}}
+@ARTICLE{Jensen:1990zw,
+  author = {Jensen, M. and K. Murphy},
+  title = {Performance Pay and Top Management Incentives},
+  journal = {Journal of Political Economy},
+  year = {1990},
+  volume = {98},
+  pages = {225-263},
+  date-added = {2014-01-17 21:36:49 +0000},
+  date-modified = {2014-01-17 21:37:40 +0000}
+}
 
-@article{King:1986jl,
-	Author = {King, R. G. and C. I. Plosser},
-	Date-Added = {2014-01-17 21:23:59 +0000},
-	Date-Modified = {2014-01-17 21:25:06 +0000},
-	Journal = {Journal of Monetary Economics},
-	Pages = {93-115},
-	Title = {Money as the Mechanism of Exchange},
-	Volume = {17},
-	Year = {1986}}
+@ARTICLE{King1993,
+  author = {King, R. G. and R. Levine},
+  title = {Finance, Entrepreneurship, and Growth: Theory and Evidence},
+  journal = {Journal of Monetary Economics},
+  year = {1993},
+  volume = {32},
+  pages = {513-542},
+  owner = {Maxim},
+  timestamp = {2014.01.19}
+}
 
-@article{Smith:1776eq,
-	Abstract = {23.	Smith, A. (1776), An Inquiry into the Nature and Causes of the Wealth of Nations, London: W. Stahan & T. Cadell.},
-	Annote = {London},
-	Author = {Smith, A.},
-	Date-Added = {2014-01-17 21:22:21 +0000},
-	Date-Modified = {2014-01-17 21:23:49 +0000},
-	Title = {An Inquiry into the Nature and Causes of the Wealth of Nations},
-	Year = {1776}}
+@ARTICLE{King:1986jl,
+  author = {King, R. G. and C. I. Plosser},
+  title = {Money as the Mechanism of Exchange},
+  journal = {Journal of Monetary Economics},
+  year = {1986},
+  volume = {17},
+  pages = {93-115},
+  date-added = {2014-01-17 21:23:59 +0000},
+  date-modified = {2014-01-17 21:25:06 +0000}
+}
 
-@article{Galor:1993rw,
-	Author = {Galor, O. and J. Zeira},
-	Date-Added = {2014-01-17 21:21:24 +0000},
-	Date-Modified = {2014-01-17 21:22:17 +0000},
-	Journal = {Review of Economic Studies},
-	Number = {35-52},
-	Title = {Income Distribution and Macroeconomics},
-	Volume = {60},
-	Year = {1993}}
+@ARTICLE{Levine2005,
+  author = {Levine, R.},
+  title = {Finance and growth: theory and evidence},
+  journal = {Handbook of Economic Growth},
+  year = {2005},
+  volume = {1A},
+  pages = {865-934},
+  owner = {Maxim},
+  timestamp = {2014.01.19}
+}
 
-@article{De-Gregorio:1996bs,
-	Author = {De Gregorio, J.},
-	Date-Added = {2014-01-17 21:20:23 +0000},
-	Date-Modified = {2014-01-17 21:21:12 +0000},
-	Journal = {Journal of Monetary Economics},
-	Pages = {49-71},
-	Title = {Borrowing Constraints, Human Capital Accumulation, and Growth},
-	Volume = {37},
-	Year = {1996}}
+@ARTICLE{Lucas1988,
+  author = {Lucas, R. E.},
+  title = {On the Mechanics of Economic Development},
+  journal = {Journal of Monetary Economics},
+  year = {1988},
+  volume = {22},
+  pages = {3-42},
+  owner = {Maxim},
+  timestamp = {2014.01.19}
+}
 
-@article{Diamond:1983eu,
-	Author = {Diamond, D. W. and P. H. Dybvig},
-	Date-Added = {2014-01-17 21:19:09 +0000},
-	Date-Modified = {2014-01-17 21:19:59 +0000},
-	Journal = {Journal of Political Economy},
-	Pages = {401-419},
-	Title = {Bank Runs, Deposit Insurance, and Liquidity},
-	Volume = {91},
-	Year = {1983}}
+@ARTICLE{McKinnon1973,
+  author = {McKinnon, Ronald},
+  title = {Money and capital in economic development},
+  year = {1973},
+  note = {15.McKinnon, Ronald (1973), ``Money and capital in economic development''.
+	Washington, DC: Brookings Institution.},
+  owner = {Maxim},
+  timestamp = {2014.01.20}
+}
 
-@article{Acemoglu:1997fp,
-	Author = {Acemoglu, D. and F. Zilibotti},
-	Date-Added = {2014-01-17 21:15:30 +0000},
-	Date-Modified = {2014-01-17 21:18:58 +0000},
-	Journal = {Journal of Political Economy},
-	Pages = {709-775},
-	Title = {Was Prometheus Unbound by Chance? Risk, Diversification, and Growth},
-	Volume = {105},
-	Year = {1997}}
+@ARTICLE{Merton1992,
+  author = {Merton, R. C.},
+  title = {Financial Innovation and Economic Performance},
+  journal = {Journal of Applied Corporate Finance},
+  year = {1992},
+  volume = {4},
+  pages = {12-22},
+  owner = {Maxim},
+  timestamp = {2014.01.19}
+}
 
-@article{Acemoglu2003,
-	Author = {Acemoglu, D., P. Aghion, and F. Zilibotti},
-	Journal = {National Bureau of Economic Growth},
-	Owner = {Maxim},
-	Timestamp = {2014.01.20},
-	Title = {Distance to Frontier, Selection, and Economic Growth},
-	Volume = {9066},
-	Year = {2003}}
+@ARTICLE{Merton2004,
+  author = {Merton, R. C.; Z. Bodie},
+  title = {The Design of Financial Systems: Towards a Synthesis of Function
+	and Structure},
+  journal = {National Bureau of Economic Research Working Paper},
+  year = {2004},
+  volume = {10620},
+  owner = {Maxim},
+  timestamp = {2014.01.19}
+}
 
-@article{Blackburn1998,
-	Author = {Blackburn, K. and V.T.Y. Hung},
-	Journal = {Economica},
-	Owner = {Maxim},
-	Pages = {107-124},
-	Timestamp = {2014.01.19},
-	Title = {A Theory of Growth, Financial Development, and Trade},
-	Volume = {65},
-	Year = {1998}}
+@ARTICLE{Miller1998,
+  author = {Miller, M. H.},
+  title = {Financial Markets and Economic Growth},
+  journal = {Journal of Applied Corporate Finance},
+  year = {1998},
+  volume = {11},
+  pages = {8-14},
+  owner = {Maxim},
+  timestamp = {2014.01.19}
+}
 
-@article{Boyd1986,
-	Author = {Boyd, J. H. and E. C. Prescott},
-	Journal = {Journal of Economics Theory},
-	Owner = {Maxim},
-	Pages = {211-232},
-	Timestamp = {2014.01.19},
-	Title = {Financial Intermediary-Coalitions},
-	Volume = {38},
-	Year = {1986}}
+@ARTICLE{Morales2003,
+  author = {Morales, M.F.},
+  title = {Financial Intermediation in a Model of Growth Through Creative Descruction},
+  journal = {Macroeconomic Dynamics},
+  year = {2003},
+  volume = {7},
+  pages = {363-393},
+  __markedentry = {[Maxim:]},
+  owner = {Maxim},
+  timestamp = {2014.01.19}
+}
 
-@article{Boyd1992,
-	Author = {Boyd, J.H., and B.D. Smith},
-	Journal = {Journal of Monetary Economics},
-	Note = {18.Boyd, J.H., and B.D. Smith (1992), ``Intermediation and the Equilibrium Allocation of Investment Capital: Implications for Economic Development'', Journal of Monetary Economics, 30: 409-432.},
-	Owner = {Maxim},
-	Pages = {409-432},
-	Timestamp = {2014.01.20},
-	Title = {Intermediation and the Equilibrium Allocation of Investment Capital: Implications for Economic Development},
-	Volume = {30},
-	Year = {1992}}
+@ARTICLE{Morck:2005rb,
+  author = {Morck, R., D. Wolfenzon, and B. Yeung},
+  title = {Corporate Governance, Economic Entrenchment and Growth},
+  journal = {Journal of Economic Literature},
+  year = {2005},
+  volume = {43},
+  pages = {655-720},
+  number = {3},
+  date-added = {2014-01-17 21:35:39 +0000},
+  date-modified = {2014-01-17 21:36:11 +0000}
+}
 
-@article{Carossso1979,
-	Author = {Carossso, Vincent},
-	Journal = {MA: Harvard University Press},
-	Note = {Carossso, Vincent (1979), ``Investment banking in America'', MA: Harvard University Press.},
-	Owner = {Maxim},
-	Timestamp = {2014.01.20},
-	Title = {Investment banking in America},
-	Year = {1979}}
+@ARTICLE{Robinson1952,
+  author = {Robinson, J.},
+  title = {The Generalization of the General Theory},
+  journal = {In: the Rate of Interest and Other Essays},
+  year = {1952},
+  note = {3.Robinson, J. (1952), "The Generalization of the General Theory'',
+	In: the Rate of Interest and Other Essays, London: MacMillan.},
+  owner = {Maxim},
+  timestamp = {2014.01.19}
+}
 
-@article{Grossman1980,
-	Author = {Grossman, S. J. and J. Stiglitz},
-	Journal = {American Economic Review},
-	Owner = {Maxim},
-	Pages = {393-408},
-	Timestamp = {2014.01.20},
-	Title = {On the Impossibility of Informationally Efficient Markets},
-	Volume = {70},
-	Year = {1980}}
+@ARTICLE{Scharfstein:1988ez,
+  author = {Scharfstein, D.},
+  title = {The Disciplinary Role of Takeovers},
+  journal = {Review of Economic Studies},
+  year = {1988},
+  volume = {55},
+  pages = {185-199},
+  date-added = {2014-01-17 21:37:42 +0000},
+  date-modified = {2014-01-17 21:38:18 +0000}
+}
 
-@article{Holmstrom1993,
-	Author = {Holmstrom, B. and J. Tirole},
-	Journal = {Journal of Political Economy},
-	Owner = {Maxim},
-	Pages = {678-709},
-	Timestamp = {2014.01.20},
-	Title = {Market Liquidity and Performance Monitoring},
-	Volume = {678-709},
-	Year = {1993}}
+@ARTICLE{Schumpeter1912,
+  author = {Schumpeter, J. A.},
+  title = {Theorie der Wirtschaftlichen Entwicklung. Leipzig: Dunker \& Humblo},
+  journal = {The Theory of Economic Development},
+  year = {1912},
+  note = {Schumpeter, J. A. (1912), ``Theorie der Wirtschaftlichen Entwicklung.
+	Leipzig: Dunker \& Humblot'', [The Theory of Economic Development,
+	1912, translated by R. Opie. Cambridge, MA: Harvard University Press,
+	1934.]},
+  owner = {Maxim},
+  timestamp = {2014.01.19}
+}
 
-@article{King1993,
-	Author = {King, R. G. and R. Levine},
-	Journal = {Journal of Monetary Economics},
-	Owner = {Maxim},
-	Pages = {513-542},
-	Timestamp = {2014.01.19},
-	Title = {Finance, Entrepreneurship, and Growth: Theory and Evidence},
-	Volume = {32},
-	Year = {1993}}
+@ARTICLE{Smith:1776eq,
+  author = {Smith, A.},
+  title = {An Inquiry into the Nature and Causes of the Wealth of Nations},
+  year = {1776},
+  abstract = {23.Smith, A. (1776), An Inquiry into the Nature and Causes of the
+	Wealth of Nations, London: W. Stahan & T. Cadell.},
+  annote = {London},
+  date-added = {2014-01-17 21:22:21 +0000},
+  date-modified = {2014-01-17 21:23:49 +0000}
+}
 
-@article{Levine2005,
-	Author = {Levine, R.},
-	Journal = {Handbook of Economic Growth},
-	Owner = {Maxim},
-	Pages = {865-934},
-	Timestamp = {2014.01.19},
-	Title = {Finance and growth: theory and evidence},
-	Volume = {1A},
-	Year = {2005}}
+@ARTICLE{Stein:1988zp,
+  author = {Stein, J. C.},
+  title = {Takeover Threats and Managerial Myopia},
+  journal = {Journal of Political Economy},
+  year = {1988},
+  volume = {96},
+  pages = {61-80},
+  date-added = {2014-01-17 21:38:22 +0000},
+  date-modified = {2014-01-17 21:38:57 +0000}
+}
 
-@article{Lucas1988,
-	Author = {Lucas, R. E.},
-	Journal = {Journal of Monetary Economics},
-	Owner = {Maxim},
-	Pages = {3-42},
-	Timestamp = {2014.01.19},
-	Title = {On the Mechanics of Economic Development},
-	Volume = {22},
-	Year = {1988}}
+@ARTICLE{Williamson:1994qd,
+  author = {Williamson, S. D. and R. Wright},
+  title = {Barter and Monetary Exchange under Private Information},
+  journal = {American Economic Review},
+  year = {1994},
+  volume = {84},
+  pages = {104-123},
+  date-added = {2014-01-17 21:33:02 +0000},
+  date-modified = {2014-01-17 21:34:15 +0000}
+}
 
-@article{McKinnon1973,
-	Author = {McKinnon, Ronald},
-	Note = {15.McKinnon, Ronald (1973), ``Money and capital in economic development''. Washington, DC: Brookings Institution.},
-	Owner = {Maxim},
-	Timestamp = {2014.01.20},
-	Title = {Money and capital in economic development},
-	Year = {1973}}
+@ARTICLE{test:2013jk,
+  author = {тест},
+  title = {проверка €зыка},
+  journal = {така€ же, а затем изменил и проверил},
+  year = {2013},
+  date-added = {2014-01-19 21:44:29 +0000},
+  date-modified = {2014-01-19 21:44:45 +0000}
+}
 
-@article{Merton1992,
-	Author = {Merton, R. C.},
-	Journal = {Journal of Applied Corporate Finance},
-	Owner = {Maxim},
-	Pages = {12-22},
-	Timestamp = {2014.01.19},
-	Title = {Financial Innovation and Economic Performance},
-	Volume = {4},
-	Year = {1992}}
-
-@article{Merton2004,
-	Author = {Merton, R. C.; Z. Bodie},
-	Journal = {National Bureau of Economic Research Working Paper},
-	Owner = {Maxim},
-	Timestamp = {2014.01.19},
-	Title = {The Design of Financial Systems: Towards a Synthesis of Function and Structure},
-	Volume = {10620},
-	Year = {2004}}
-
-@article{Miller1998,
-	Author = {Miller, M. H.},
-	Journal = {Journal of Applied Corporate Finance},
-	Owner = {Maxim},
-	Pages = {8-14},
-	Timestamp = {2014.01.19},
-	Title = {Financial Markets and Economic Growth},
-	Volume = {11},
-	Year = {1998}}
-
-@article{Morales2003,
-	__Markedentry = {[Maxim:]},
-	Author = {Morales, M.F.},
-	Journal = {Macroeconomic Dynamics},
-	Owner = {Maxim},
-	Pages = {363-393},
-	Timestamp = {2014.01.19},
-	Title = {Financial Intermediation in a Model of Growth Through Creative Descruction},
-	Volume = {7},
-	Year = {2003}}
-
-@article{Robinson1952,
-	Author = {Robinson, J.},
-	Journal = {In: the Rate of Interest and Other Essays},
-	Note = {3.Robinson, J. (1952), "The Generalization of the General Theory'', In: the Rate of Interest and Other Essays, London: MacMillan.},
-	Owner = {Maxim},
-	Timestamp = {2014.01.19},
-	Title = {The Generalization of the General Theory},
-	Year = {1952}}
-
-@article{Schumpeter1912,
-	Author = {Schumpeter, J. A.},
-	Journal = {The Theory of Economic Development},
-	Note = {Schumpeter, J. A. (1912), ``Theorie der Wirtschaftlichen Entwicklung. Leipzig: Dunker \& Humblot'', [The Theory of Economic Development, 1912, translated by R. Opie. Cambridge, MA: Harvard University Press, 1934.]},
-	Owner = {Maxim},
-	Timestamp = {2014.01.19},
-	Title = {Theorie der Wirtschaftlichen Entwicklung. Leipzig: Dunker \& Humblo},
-	Year = {1912}}
