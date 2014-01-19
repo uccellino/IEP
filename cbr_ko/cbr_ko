@@ -1,0 +1,101 @@
+Sub Макрос3()
+'
+' Макрос3 Макрос
+'
+
+'
+Dim mn(12) As String
+Dim yy(12) As String
+Dim adr As String
+Dim str As String
+    Dim lLastRow As Long
+    'а для lLastCol можно применить тип Integer,
+    'т.к. столбцов в Excel пока меньше 32767
+    Dim lLastCol As Long
+
+For i = 6 To 12
+    For j = 1 To 12
+    ii = 12 - i + 1
+    jj = 12 - j + 1
+        If ii < 10 Then
+            adr = "0" & CStr(ii)
+        Else
+            adr = CStr(ii)
+        End If
+        
+        If jj < 10 Then
+            adr = "0" + CStr(jj) + adr
+        Else
+            adr = CStr(jj) + adr
+        End If
+        str = "URL;http://www.cbr.ru/statistics/print.aspx?file=bank_system/cr_inst_branch_01" & adr & ".htm&pid=pdko_sub&sid=sprav_cdko"
+        
+        lLastRow = Cells(Rows.Count, 2).End(xlUp).Row
+        r = lLastRow + 1
+
+        'If i < 6 Then
+        If i < 4 Or (i = 4 And j < 7) Then
+            With ActiveSheet.QueryTables.Add(Connection:= _
+                str _
+                , Destination:=Range("$A$" & CStr(r)))
+                .Name = "cr_inst_branch_010912.htm&pid=pdko_sub&sid=sprav_cdko"
+                .FieldNames = True
+                .RowNumbers = False
+                .FillAdjacentFormulas = False
+                .PreserveFormatting = True
+                .RefreshOnFileOpen = False
+                .BackgroundQuery = True
+                .RefreshStyle = xlInsertDeleteCells
+                .SavePassword = False
+                .SaveData = True
+                .AdjustColumnWidth = True
+                .RefreshPeriod = 0
+                .WebSelectionType = xlSpecifiedTables
+                .WebFormatting = xlWebFormattingNone
+                .WebTables = "2"
+                .WebPreFormattedTextToColumns = True
+                .WebConsecutiveDelimitersAsOne = True
+                .WebSingleBlockTextImport = False
+                .WebDisableDateRecognition = False
+                .WebDisableRedirections = False
+                .Refresh BackgroundQuery:=False
+            End With
+        Else
+            With ActiveSheet.QueryTables.Add(Connection:= _
+                str _
+                , Destination:=Range("$A$" & CStr(r)))
+                .Name = "cr_inst_branch_010509.htm&pid=pdko_sub&sid=sprav_cdko_1"
+                .FieldNames = True
+                .RowNumbers = False
+                .FillAdjacentFormulas = False
+                .PreserveFormatting = True
+                .RefreshOnFileOpen = False
+                .BackgroundQuery = True
+                .RefreshStyle = xlInsertDeleteCells
+                .SavePassword = False
+                .SaveData = True
+                .AdjustColumnWidth = True
+                .RefreshPeriod = 0
+                .WebSelectionType = xlSpecifiedTables
+                .WebFormatting = xlWebFormattingNone
+                .WebTables = "4"
+                .WebPreFormattedTextToColumns = True
+                .WebConsecutiveDelimitersAsOne = True
+                .WebSingleBlockTextImport = False
+                .WebDisableDateRecognition = False
+                .WebDisableRedirections = False
+                .Refresh BackgroundQuery:=False
+            End With
+        End If
+        'End If
+        
+        dt = "01." + CStr(jj) + "." + CStr(ii + 2000)
+        Cells(r, 7).Value = dt
+        Cells(r, 9).Value = str
+        Cells(r, 1).Select
+        
+    Next j
+Next i
+
+a = 1 ' для остановки
+End Sub
